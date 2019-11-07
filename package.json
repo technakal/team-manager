@@ -1,0 +1,26 @@
+{
+  "name": "tito-commission",
+  "version": "0.1.0",
+  "description": "mvc for a soccer team management application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technakal/team-manager.git"
+  },
+  "keywords": [
+    "koa",
+    "react",
+    "airtable",
+    "pwa",
+    "redux"
+  ],
+  "author": "N. Keener",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technakal/team-manager/issues"
+  },
+  "homepage": "https://github.com/technakal/team-manager#readme"
+}
